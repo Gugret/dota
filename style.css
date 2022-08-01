@@ -1,16 +1,27 @@
+body{
+    font-family:franklin gothic medium;
+}
+
+header{
+    background-color:#32267f;
+}
+
 h1{
   font-size:50px;
   text-align:center;
   color:#534F70;
 }
+
 h2{
   font-size:40px;
   color:#534F70;
 }
+
 p{
   font-size:20px;
   color:#731526;
 }
+
 header a{
     background-color: #9a40a8;
     font-size: 20px;
@@ -18,4 +29,18 @@ header a{
     border-radius: 5px;
     padding: 2px;
     margin: 240px;
+}
+
+footer{
+    background-color:#32267f; 
+    font-family:arial;
+}
+
+footer p{
+    text-size:1px;
+    color:#000;
+}
+
+footer a{
+    color:black;
 }
