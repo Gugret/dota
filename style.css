@@ -38,13 +38,13 @@ footer{
 }
 
 footer p{
-    font-size:2px;
+    font-size:10px;
     color:#000;
 }
 
 footer a{
     color:black;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     border-radius: 3px;
     padding: 2px;
