@@ -53,3 +53,29 @@ img.hheroes{
     width:"800px" ;
     heigh;:"900px";
 }
+
+img.dotaimg1{
+    width: 470px;
+    heigh: 470px;
+}
+
+img.dotaimg2{
+    width: 485px;
+    heigh: 485px;
+}
+
+img.baze{
+    width: 800px;
+    heigh: 600px;
+}
+
+main table{
+    border:1px solid lightgrey;
+    border-collapse:collapse; 
+    font-size:25p
+}
+
+img.titan{
+    width: 200px;
+    heigh: 200px;
+}
