@@ -4,6 +4,7 @@ body{
 
 header{
     background-color:#32267f;
+    height:100px;
 }
 
 h1{
@@ -29,7 +30,7 @@ header a{
     text-decoration: none;
     border-radius: 3px;
     padding: 2px;
-    margin: 180px;
+
 }
 
 footer{
