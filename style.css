@@ -49,22 +49,22 @@ footer a{
     border-radius: 3px;
     padding: 2px;
 }
-img.hheroes{
+.hheroes{
     width:"800px" ;
     heigh;:"900px";
 }
 
-img.dotaimg1{
+.dotaimg1{
     width: 470px;
     heigh: 470px;
 }
 
-img.dotaimg2{
+.dotaimg2{
     width: 485px;
     heigh: 485px;
 }
 
-img.baze{
+.baze{
     width: 800px;
     heigh: 600px;
 }
@@ -73,9 +73,20 @@ main table{
     border:1px solid lightgrey;
     border-collapse:collapse; 
     font-size:25p
+    width:500px;
+    height:500px;
 }
 
-img.titan{
+.titan{
     width: 200px;
     heigh: 200px;
+}
+.navv{
+    display:flex;
+    justify-content: space-between;
+    justify-content: spase-around;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
 }
