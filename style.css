@@ -84,7 +84,6 @@ main table{
 }
 .navv{
     display:flex;
-    justify-content: space-between;
     justify-content: space-around;
 }
 .gallery{
