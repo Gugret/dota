@@ -1,5 +1,6 @@
 body{
     font-family:franklin gothic medium;
+    backgroynd-color:#000;
 }
 
 header{
@@ -20,7 +21,7 @@ h2{
 
 p{
   font-size:20px;
-  color:#000;
+  color:#255.255.255;
 }
 
 header a{
